@@ -513,7 +513,6 @@ Give a ⭐️ if this project helped you!
 ---
 
 <div align="center">
-  <strong>Made with ❤️ for saving lives</strong>
-  <br>
+
   <sub>A college mini-project with real-world impact</sub>
 </div>
