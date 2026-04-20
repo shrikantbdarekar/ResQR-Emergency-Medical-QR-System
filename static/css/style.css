@@ -1,0 +1,48 @@
+/* ResQr Custom Styles */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hero-section {
+    background: linear-gradient(135deg, #dc3545 0%, #c82333 100%);
+    padding: 100px 0;
+    margin-bottom: 50px;
+}
+
+.feature-icon {
+    font-size: 3rem;
+    margin-bottom: 15px;
+}
+
+.card {
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.emergency-info .info-row {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 15px;
+}
+
+.emergency-info .info-row:last-child {
+    border-bottom: none;
+}
+
+@media print {
+    .btn, nav {
+        display: none;
+    }
+}
+
+.table-responsive {
+    overflow-x: auto;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
