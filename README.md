@@ -496,16 +496,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
-
-For issues, questions, or suggestions:
-
-- 📧 Email: your.email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/resqr/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/resqr/discussions)
-
----
-
 ## 🌟 Show Your Support
 
 Give a ⭐️ if this project helped you!
