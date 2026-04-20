@@ -161,7 +161,7 @@ mysql --version
 
 ```bash
 # Using Git
-git clone https://github.com/yourusername/resqr.git
+git clone https://github.com/shrikantbdarekar/resqr.git
 cd resqr
 
 # OR download ZIP and extract
@@ -483,7 +483,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-**Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+**Shrikant Darekar** - *Initial work* - [https://github.com/shrikantbdarekar](https://github.com/shrikantbdarekar)
 
 ---
 
