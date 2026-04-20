@@ -161,7 +161,7 @@ mysql --version
 
 ```bash
 # Using Git
-git clone https://github.com/yourusername/resqr.git
+git clone https://github.com/shrikantbdarekar/resqr.git
 cd resqr
 
 # OR download ZIP and extract
