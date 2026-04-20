@@ -483,7 +483,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-**Your Name** - *Initial work* - [Shrikant Darekar](https://github.com/shrikantbdarekar)
+**Shrikant Darekar** - *Initial work* - (https://github.com/shrikantbdarekar)
 
 ---
 
